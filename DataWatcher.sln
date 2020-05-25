@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2011
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataWatcher", "DataWatcher\DataWatcher.vbproj", "{91E02EB9-6D05-4A3B-87D9-40B21D9A8E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E02EB9-6D05-4A3B-87D9-40B21D9A8E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E02EB9-6D05-4A3B-87D9-40B21D9A8E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E02EB9-6D05-4A3B-87D9-40B21D9A8E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E02EB9-6D05-4A3B-87D9-40B21D9A8E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
